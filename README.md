@@ -1,4 +1,4 @@
-# Test Hypsoma - Authentication app
+# Test - Authentication app
 
 This is a basic authentication app developed with:
 - Python / Django / Django Rest Framework for the backend API
